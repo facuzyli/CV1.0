@@ -1,0 +1,21 @@
+  {
+    "name": "FacundoZylinski_CV",
+    "short_name": "FZ_CV",
+    "theme_color": "#FF0000",
+    "background_color": "#00FF00",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+          "src": "/imagenes/logo512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "src": "/imagenes/logo192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+  }
